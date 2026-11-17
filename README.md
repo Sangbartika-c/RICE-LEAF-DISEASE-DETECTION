@@ -1,4 +1,3 @@
-# RICE-LEAF-DISEASE-DETECTION
 # Rice Leaf Disease Detection Using CNN 🌾
 
 ## Project Overview
